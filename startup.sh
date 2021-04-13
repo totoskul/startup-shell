@@ -59,5 +59,8 @@ apt install mariadb-server -y;
 
 mysql_secure_installation;
 
+apt install monit;
+
+
 
 
